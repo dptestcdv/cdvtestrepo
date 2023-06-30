@@ -1,7 +1,7 @@
 # Menu Restauracji
 
 ## Przystawki
-- Sałatka grecka
+- Sałatka grecka (zawiera oliwki Kalamata)
 - Carpaccio z wołowiny
 - Krewetki w sosie czosnkowym
 
