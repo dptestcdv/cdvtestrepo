@@ -4,3 +4,8 @@
 - Sałatka grecka
 - Carpaccio z wołowiny
 - Krewetki w sosie czosnkowym
+
+## Dania główne
+- Filet z łososia z sosem koperkowym
+- Stek z polędwicy wołowej z sosem pieprzowym
+- Risotto z grzybami i szparagami
