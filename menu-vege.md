@@ -9,3 +9,9 @@
 - Wegetariańska pizza z warzywami
 - Makaron z pesto z bazylii i suszonymi pomidorami
 - Indyjski curry z warzywami i mlekiem kokosowym
+
+
+## Desery
+- Tarta jaglana z owocami sezonowymi
+- Sorbet owocowy
+- Wegetariańskie brownie z orzechami
