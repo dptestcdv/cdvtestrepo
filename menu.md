@@ -14,4 +14,5 @@
 ## Desery
 - Tiramisu
 - Sernik z truskawkami
+- Sernik z brzoskwiniami
 - Czekoladowy fondant z lodami
